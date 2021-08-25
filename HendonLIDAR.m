@@ -1,3 +1,5 @@
+%% Uses Matlab's Mapping Toolbox
+
 %% Load LIDAR data
 % First we get the LIDAR data. This is in the form of a GeoTIFF which can be found at
 % https://environment.data.gov.uk/DefraDataDownload/?Mode=survey
