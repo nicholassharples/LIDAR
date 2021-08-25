@@ -1,0 +1,7 @@
+# Ignore directories with data I can't share
+1M2020DTM
+greater-london-latest-free.shp
+
+# Ignore large videos
+*.gif
+*.mp4
